@@ -2,10 +2,7 @@
 
 Feng Zheng
 
-## Available Scripts
-
-In the project directory, you can run:
-
+## Run the code
 Use this command in terminal to run the code
 ### `npm start`
 
