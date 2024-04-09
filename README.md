@@ -11,7 +11,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### `react, aws-sdk, axios, nanoid`
 Install the libraies before run the code
 
-You can install using
+
+You can install using following command in terminal
 ### `npm install react`
 ### `npm install aws-sdk`
 ### `npm install axios`
