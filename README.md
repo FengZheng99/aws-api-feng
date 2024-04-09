@@ -8,7 +8,7 @@ Use this command in terminal to run the code
 
 
 
-Runs the app in the development mode.\
+# Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Making a Progressive Web App
