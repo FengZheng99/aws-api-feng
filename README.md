@@ -2,16 +2,13 @@
 
 Feng Zheng
 
-## Run the code
+# Run the code
 Use this command in terminal to run the code
 ### `npm start`
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Libraies Used
-## `import React, { useState } from 'react';`
-## `import AWS from 'aws-sdk';`
-## `import axios from 'axios';`
-## `import {nanoid} from "nanoid";`
+## `react, aws-sdk, axios, nanoid`
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
