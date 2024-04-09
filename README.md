@@ -42,6 +42,8 @@ You can install using following command in terminal
 
 <img width="772" alt="Screenshot 2024-04-09 at 6 51 02 AM" src="https://github.com/FengZheng99/fovus-challenge-feng/assets/46905932/64bd0f7b-8a01-49b6-8462-ed9a1a1f667b">
 
+# Notice: I am using SSM to send script to VM, witch takes about 10 min to fully boosting the instance. The result will shown.
+
 ## Result
 
 <img width="772" alt="Screenshot 2024-04-09 at 6 50 50 AM" src="https://github.com/FengZheng99/fovus-challenge-feng/assets/46905932/fd091394-79f5-493a-91e9-2f4386470551">
