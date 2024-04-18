@@ -1,4 +1,4 @@
-# Fovus Coding Challenge - Feng Zheng 
+# ReactJS via AWS - Feng Zheng 
 
 # Environment 
 
